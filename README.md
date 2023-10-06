@@ -1,0 +1,2 @@
+# ErrorMsgPromiseJS
+Error Promise JavaScript
